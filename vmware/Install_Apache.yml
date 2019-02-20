@@ -1,5 +1,5 @@
 ---
-- hosts: CF
+- hosts: client
 
   tasks:
     - name: Install Package
